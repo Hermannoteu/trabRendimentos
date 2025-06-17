@@ -42,5 +42,4 @@
 
 ---
 
-✏ **Créditos:**  
-*Projeto desenvolvido por* **[Hermannoteu](https://github.com/Hermannoteu)** *(coloque seu nome e link se quiser!)*  
+✏ * desenvolvido por* **[Hermannoteu](https://github.com/Hermannoteu)** 
