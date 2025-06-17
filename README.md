@@ -42,4 +42,4 @@
 
 ---
 
-✏ * desenvolvido por* **[Hermannoteu](https://github.com/Hermannoteu)** 
+✏  desenvolvido por **[Hermannoteu](https://github.com/Hermannoteu)** 
